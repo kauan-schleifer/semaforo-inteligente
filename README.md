@@ -72,5 +72,5 @@ O objetivo é simular um semáforo funcional, modular e seguro, seguindo boas pr
 ---
 
 ## 👨‍💻 Autores
-Projeto desenvolvido por **Kauan e grupo** para a disciplina de Sistemas Embarcados.  
+Projeto desenvolvido por **Kauan e João** para a disciplina de Microcontroladores e Microprocessadores.  
 Entrega 3 — Desenvolvimento do Sistema (3 pontos).
